@@ -5,15 +5,11 @@
 AI 自主渗透测试系统（Go 后端 + Next.js 前端）
 
 
-🌐 **在线 Demo**： [https://artex-demo.vercel.app/](https://artex-demo.vercel.app/)
-
 </div>
 
 ---
 
 ## 截图预览
-
-> 完整交互见[在线 Demo](https://artex-demo.vercel.app/)。
 
 | 仪表盘（总览 / Token 消耗 / 活动流） | 任务列表 |
 | :---: | :---: |
@@ -441,17 +437,6 @@ flowchart TB
 
 ---
 
-## 交流群
-
-扫码关注微信公众号 **SecSentry**，在公众号后台私信即可入群交流。
-
-<div align="center">
-
-<img src="screenshots/wx.png" alt="微信公众号 SecSentry" width="480" />
-
-</div>
-
----
 ## 参考
 
 https://github.com/oritera/Cairn
