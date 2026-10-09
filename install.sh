@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # ARTEX 安装脚本：① 全部 Docker  ② 本地编译运行
+# 
 set -euo pipefail
 cd "$(cd "$(dirname "$0")" && pwd)"
 
